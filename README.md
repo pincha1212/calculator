@@ -13,8 +13,6 @@ Esta es una calculadora interactiva desarrollada con [HTML, CSS, JAVASCRIPT].
 ---
 
 ### **Uso**
-
-## Uso
 1. Abre la calculadora en tu navegador.
 2. Ingresa los números y selecciona la operación deseada.
 3. Presiona el botón `=` para ver el resultado.
